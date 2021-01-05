@@ -11,9 +11,7 @@ Extra:
 1. Pagooglinkite 'Generic Controller', 'Generic types' ir pakeiskite, kad vietoj 3 kontrolerių būtų vienas.
 2. Pridėkite Swagger Api biblioteką, kuri aprašo jūsų RestApi.
 #
-
 8 __ Pakeisti Lesson6 užduotį, kad duomenys būtų išsaugomi duomenų bazėje. Jei per daug darbo užtenka duomenų bazę naudoti su vienu objektu, (ne su 3).
-#
 Reikalavimai:
 1. Naudoti Mssql duomenų bazę.
 2. Galima naudoti SqlConnection, Dapper, Entity framework Core. Patarčiau SqlConnection + Dapper, nebent pažįstat EntityFramework.
